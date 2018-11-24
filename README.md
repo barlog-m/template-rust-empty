@@ -1,0 +1,1 @@
+# rust-empty-template
