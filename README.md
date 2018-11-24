@@ -1,1 +1,1 @@
-# rust-empty-template
+# Rust empty template project

@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# IDEA
+.idea/
+out/
+classes/
+*.iml
+
+# Cargo
+target/
