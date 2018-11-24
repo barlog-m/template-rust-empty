@@ -8,4 +8,5 @@ classes/
 *.iml
 
 # Cargo
+Cargo.lock
 target/
