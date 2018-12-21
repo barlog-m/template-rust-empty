@@ -5,3 +5,8 @@ authors = ["Barlog <barlog@tanelorn.li>"]
 edition = "2018"
 
 [dependencies]
+
+[profile.release]
+lto = true
+opt-level = 'z'
+panic = 'abort'
