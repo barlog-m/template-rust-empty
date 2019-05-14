@@ -10,3 +10,4 @@ classes/
 # Cargo
 Cargo.lock
 target/
+rusty-tags.vi
