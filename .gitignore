@@ -11,3 +11,6 @@ classes/
 Cargo.lock
 target/
 rusty-tags.vi
+
+# Wasm
+pkg/
