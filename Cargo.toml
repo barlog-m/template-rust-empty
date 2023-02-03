@@ -3,7 +3,6 @@ name = "{{project-name}}"
 version = "0.1.0"
 authors = ["Barlog <barlog@tanelorn.li>"]
 edition = "2021"
-rust-version = "1.57"
 
 [dependencies]
 
