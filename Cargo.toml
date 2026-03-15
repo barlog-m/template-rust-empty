@@ -1,12 +1,13 @@
 [package]
 name = "{{project-name}}"
 version = "0.1.0"
-authors = ["Barlog <barlog@tanelorn.li>"]
 edition = "2024"
 
 [dependencies]
 
 [profile.release]
+strip = true
 lto = true
+codegen-units = 1
 opt-level = 'z'
 panic = 'abort'
